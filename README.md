@@ -5,13 +5,13 @@ This project analyzes data from the World Happiness Report for the years 2015 to
 To explore trends, correlations, and insights that can help better understand global happiness dynamics.
 
 ## Key Questions 
-Are the ‘richest’ countries in the world are happiest?
-Do trends over a 5 year period indicate consistent happiness or decreasing happiness or increasing happiness?
-What countries/regions have experienced the most growth in happiness and why?
-What countries/regions have experienced a decline in happiness and why?
-What is the strongest predictor of happiness of the variables in this report?
-Are people with strong social support system happier?
-Does trust in the government impact the happiness score?
+- Are the ‘richest’ countries in the world are happiest?
+- Do trends over a 5 year period indicate consistent happiness or decreasing happiness or increasing happiness?
+- What countries/regions have experienced the most growth in happiness and why?
+- What countries/regions have experienced a decline in happiness and why?
+- What is the strongest predictor of happiness of the variables in this report?
+- Are people with strong social support system happier?
+- Does trust in the government impact the happiness score?
 
 ## Data
 The data sets used were
