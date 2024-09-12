@@ -14,7 +14,7 @@ To explore trends, correlations, and insights that can help better understand gl
 - Does trust in the government impact the happiness score?
 
 ## Data
-The data sets used were
+The data sets used were:
 - 2015.csv
 - 2016.csv
 - 2017.csv
