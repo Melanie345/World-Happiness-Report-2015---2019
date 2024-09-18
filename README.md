@@ -43,5 +43,6 @@ The project folders are stored in the folder structure:
 ## Resources
 The datasets for the World Happiness Report (2015-2019) were obtained from Kaggle.  The dataset of GEO JSON of world countries was obtained from: geojson-maps.kyd.au
 
-[View the Tableau Dashboard] (https://public.tableau.com/app/profile/melanie.houston/viz/WorldHappinessReport2015_2019/WorldHappinessReport-CF2015-2019?publish=yes)
+[View the Tableau Dashboard](https://public.tableau.com/app/profile/melanie.houston/viz/WorldHappinessReport2015_2019/WorldHappinessReport-CF2015-2019?publish=yes)
+
 
